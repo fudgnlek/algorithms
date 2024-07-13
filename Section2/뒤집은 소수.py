@@ -21,3 +21,4 @@ for x in num:
     tmp = reverse(x)
     if not (isPrime(tmp)):
         print(tmp,end=' ')
+    
