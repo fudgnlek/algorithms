@@ -1,4 +1,5 @@
 # 재귀함수를 이용한 이진수 출력
+# 스택 이용하는 점 !!!
 
 import sys
 sys.stdin = open("input.txt","rt")

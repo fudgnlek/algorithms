@@ -1,4 +1,6 @@
 # 수열 추측하기
+# Feedback
+# 이항계수 따로 구해서 바로 합 구해버리는 부분 생각못함
 
 import sys
 sys.stdin = open("input.txt","rt")
